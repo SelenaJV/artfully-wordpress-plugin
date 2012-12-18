@@ -12,7 +12,7 @@ Setup your events on artful.ly and sell tickets through your Wordpress website
 
 == Description ==
 
-Artful.ly is Arts Organization Management software that helps you run your arts business.  After you setup your events through Artful.ly, install the plugin to being taking donations and selling tickets directly from your Wordpress website.
+Artful.ly is Arts Organization Management software that helps you run your arts business.  After you setup your events through Artful.ly, install the plugin to begin taking donations and selling tickets directly from your Wordpress website.
 
 Features
 
