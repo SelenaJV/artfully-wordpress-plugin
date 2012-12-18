@@ -12,7 +12,7 @@ Setup your events on artful.ly and sell tickets through your Wordpress website
 
 == Description ==
 
-[Artful.ly](https://www.artful.ly) is management software that helps you run your arts business. With Artful.ly, you can sell tickets, take donations, and manage your patron’s contact information all in one place. After you setup your Artful.ly account, install this plugin to begin taking donations and selling tickets directly from your WordPress website.
+[Artful.ly](https://www.artful.ly) is management software that helps you run your arts business. With Artful.ly, you can sell tickets, take donations, and manage your patrons' contact information all in one place. After you setup your Artful.ly account, install this plugin to begin taking donations and selling tickets directly from your WordPress website.
 
 = Features =
 
@@ -65,5 +65,5 @@ Yes. Sign-up is free and you can register [here](https://www.artful.ly/sign_up)
 Yes, if you are at 501(c)(3) or fiscally sponsored by Fractured Atlas. Follow the instructions for [Using the Plugin to Take Donations](http://wordpress.org/extend/plugins/artfully-widget/installation/).
 
 = Where do I learn more about Artful.ly? =
-Try the [Artful.ly FAQ](www.artful.ly/faq) or email us at support@artful.ly.
+Try the [www.artful.ly/faq](www.artful.ly/faq) or email us at support@artful.ly.
 
